@@ -1,0 +1,5 @@
+.navbar-brand img, span{
+		display: inline-block;
+    vertical-align: middle;
+    padding-bottom: 2px;
+}
